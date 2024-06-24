@@ -1,0 +1,22 @@
+/* style.css */
+
+.first-number,
+.third-number {
+    background-color: rgb(254, 215, 222);
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+
+#second-line {
+    color: blue;
+    font-size: 36px;
+}
+
+.third-number {
+    font-size: 24px;
+}
+
+#fourth-line {
+    background-color: rgb(96, 203, 96);
+    font-size: 24px;
+    font-weight: bold;
+}
