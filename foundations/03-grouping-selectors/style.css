@@ -1,0 +1,17 @@
+/* style.css */
+
+.First-button {
+    background-color: black;
+    color: white;
+    font-weight: bold;
+}
+
+.Second-button {
+    background-color: yellow;
+}
+
+.First-button,
+.Second-button {
+    font-size: 28px;
+    font-family: "Helvetica", "Times New Roman", sans-serif;
+}
